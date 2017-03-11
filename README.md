@@ -32,7 +32,6 @@ Okay, it is top 6, I wanted to include AAP in this category.
 NO. OF CANDIDATES | PARTY
 ------------ | -------------
 2097|INDEPENDENT 
-684|NONE OF THE ABOVE 
 580|BAHUJAN SAMAJ PARTY 
 569|BHARATIYA JANATA PARTY 
 391|INDIAN NATIONAL CONGRESS 
@@ -94,7 +93,6 @@ No. of seats with < 1/6 votes
 NO. OF CANDIDATES | PARTY 
 ------------ | ------------- 
 2051|INDEPENDENT
-684|NONE OF THE ABOVE
 271|RASHTRIYA LOK DAL
 254|BAHUJAN SAMAJ PARTY
 202|BAHUJAN MUKTI PARTY
@@ -214,5 +212,3 @@ AMARINDER SINGH|INDIAN NATIONAL CONGRESS|PATIALA|72586
 
 
 A string match of Names and Party were done. This is not fool proof. There could be 2 individuals with same name and belonging to the same party.
-
-
