@@ -1,700 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="585428fe-0c33-4713-9005-39ba53dffa32" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/upukgoa2017/com/asb/elections/Consolidator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/upukgoa2017/com/asb/elections/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/upukgoa2017/com/asb/elections/Scraper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/upukgoa2017/com/asb/elections/TransformSourceToFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/upukgoa2017/com/asb/elections/WebPageFetcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Aldona.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Benaulim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Bicholim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Calangute.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Cortalim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Cumbarjua.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Cuncolim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Curchorem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Curtorim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Dabolim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Fatorda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Maem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Mandrem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Mapusa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Marcaim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Margao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Mormugao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Navelim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Nuvem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Panaji.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Pernem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Ponda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Poriem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Porvorim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Priol.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Quepem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Saligao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Sanguem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Sanquelim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Sanvordem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Siolim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Siroda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - St. Andre.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - St. Cruz.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Taleigao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Tivim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Valpoi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Vasco-da-gama.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Goa - Velim.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Andro.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Bishnupur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Chandel (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Chingai (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Churachandpur (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Heingang (GEN).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Heirok.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Henglep (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Hiyanglam.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Jiribam.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Kakching.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Kangpokpi (Gen).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Karong (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Keirao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Keishamthong.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Khangabok.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Khundrakpam (GEN).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Khurai (GEN).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Konthoujam.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Kshetrigao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Kumbi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Lamlai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Lamsang.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Langthabal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Lilong.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Mao (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Mayang imphal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Moirang.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Nambol.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Naoriya pakhanglakpa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Nungba (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Oinam.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Patsoi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Phungyar (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Sagolband.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Saikot (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Saikul (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Saitu (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Sekmai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Singjamei.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Sugnu.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Tadubi (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Tamei (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Tamenglong (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Tengnoupal (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Thanga.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Thangmeiband.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Thanlon (ST).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Thongju.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Thoubal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Tipaimukh (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Ukhrul (st).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Uripok.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Wabgai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Wangjing tentha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Wangkhei.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Wangkhem.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Wangoi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Manipur - Yaiskul.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Abohar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Adampur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Ajnala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Amargarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Amloh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Amritsar Central.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Amritsar East.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Amritsar North.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Amritsar South.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Amritsar West.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Anandpur Sahib.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Atam Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Attari.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Baba Bakala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Balachaur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Balluana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Banga.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Barnala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bassi Pathana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Batala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bathinda Rural.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bathinda Urban.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bhadaur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bhagha Purana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bhoa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bholath.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Bhucho Mandi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Budhlada.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Chabbewal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Chamkaur Sahib.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dakha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dasuya.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dera Baba Nanak.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dera Bassi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dharamkot.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dhuri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dina Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Dirba.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Faridkot.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Fatehgarh Churian.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Fatehgarh Sahib.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Fazilka.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Firozpur City.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Firozpur Rural.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Garhshankar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Ghanaur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Gidderbaha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Gill.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Gurdaspur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Guru Har Sahai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Hoshiarpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jagraon.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jaitu.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jalalabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jalandhar Cantt..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jalandhar Central.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jalandhar North.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jalandhar West.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Jandiala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Kapurthala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Kartarpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Khadoor Sahib.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Khanna.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Kharar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Khem Karan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Kotkapura.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Lambi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Lehra.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Ludhiana Central.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Ludhiana East.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Ludhiana North.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Ludhiana South.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Ludhiana West.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Majitha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Malerkotla.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Malout.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Mansa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Maur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Mehal Kalan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Moga.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Mukerian.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Muktsar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Nabha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Nakodar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Nawanshahr.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Nihal Singhwala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Pathankot.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Patiala Rural.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Patiala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Patti.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Payal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Phagwara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Phillaur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Qadian.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Raikot.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Raja Sansi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Rajpura.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Rampura Phul.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Rupnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - S.A.S.Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sahnewal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Samana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Samrala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sangrur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sanour.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sardulgarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Shahkot.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sham Chaurasi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sri Hargobindpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sujanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sultanpur Lodhi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Sunam.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Talwandi Sabo.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Tarn Taran.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Urmar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Punjab - Zira.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - 175-LUCKNOW CANTT..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Agra Cantt..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Agra North.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Agra Rural.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Agra South.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ajagara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Akbarpur - Raniya.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Akbarpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Alapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Aliganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Aligarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Allahabad North.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Allahabad South.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Allahabad West.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Amanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Amethi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Amritpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Amroha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Anupshahr.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Aonla.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Arya Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Asmoli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Atrauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Atrauliya.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Aurai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Auraiya.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ayah Shah.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ayodhya.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Azamgarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - BALHA (S.C.).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Babaganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Baberu.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Babina.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bachhrawan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Badaun.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Badlapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Baghpat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bah.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Baheri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bahraich.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bairia.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bakshi Kaa Talab.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Balamau.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Baldev.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ballia Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Balrampur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Banda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bangermau.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bansdih.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bansgaon.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bansi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Barabanki.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Barauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Baraut.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bareilly Cantt..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bareilly.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Barhaj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Barhapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Barkhera.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Basti Sadar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Behat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Belthara Road.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhadohi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhagwantnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bharthana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhatpar Rani.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhinga.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhognipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhojipura.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhojpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bhongaon.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bidhuna.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bijnor.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bikapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bilari.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bilaspur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bilgram-Mallanwan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bilhaur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bilsi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bindki.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bisalpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bisauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Biswan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bithari Chainpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bithoor.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Budhana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Bulandshahr.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Caimpiyarganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chail.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chakia.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chamraua.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chandausi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chandpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Charkhari.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Charthawal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chauri-Chaura.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chhanbey.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chhaprauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chharra.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chhata.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chhibramau.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chillupar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chitrakoot.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Chunar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Colonelganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - DHAURAHRA.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dadraul.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dadri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dariyabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dataganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Debai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Deoband.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Deoria.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dhampur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dhanaura.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dhanghata.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dholana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Dibiyapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Didarganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Doomariyaganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Etah.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Etawah.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Etmadpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Faridpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Farrukhabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Fatehabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Fatehpur Sikri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Fatehpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Fazilnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Firozabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - GOLA GOKRANNATH.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gainsari.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gangoh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Garautha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Garhmukteshwar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gaura.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gauriganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ghatampur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ghaziabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ghazipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ghorawal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ghosi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gonda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gopalpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gopamau.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gorakhpur Rural.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gorakhpur Urban.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Goshainganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Goverdhan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Govindnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gunnaur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Gyanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Haidergarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hamirpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Handia.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Harchandpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hardoi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hargaon.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Harraiya.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hasanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hastinapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hata.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Hathras.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Husainganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Iglas.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Isauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Itwa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jagdishpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jahanabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jakhanian.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jalalabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jalalpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jalesar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jangipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jasrana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jaswantnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jaunpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jewar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Jhansi Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - KASTA.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - KHALILABAD.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - KIDWAI NAGAR.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kadipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kaimganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kairana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kaiserganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kalpi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kalyanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kannauj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kanpur Cantt..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kanth.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kapilvastu.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kaptanganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Karachhana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Karhal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kasganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Katehari.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Katra Bazar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Katra.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kerakat S.C..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Khadda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Khaga.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Khair.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Khajani.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Khatauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kheragarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Khurja.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kishani (SC).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kithore.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Koil.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Koraon.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kunda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kundarki.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kursi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Kushinagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - LAKHIMPUR.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Laharpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Lalganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Lalitpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Lambhua.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Loni.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Lucknow Central.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Lucknow East.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Lucknow North.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Lucknow West.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - MENHDAWAL.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - MOHAMMDI.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Machhlishahr S.C..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Madhaugarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Madhuban.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mahadewa S.C.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Maharajganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Maharajpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mahasi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mahmoodabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mahoba.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Maholi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mainpuri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Majhawan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Malhani.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Malihabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Manikpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Manjhanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mankapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mant.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Marhara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Marihan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mariyahu.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Matera.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mathura.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mau.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mauranipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Meerapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Meerganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Meerut Cantt..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Meerut South.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Meerut.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mehnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mehnaun.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mehroni.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Meja.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Milak.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Milkipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mirzapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Misrikh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Modi Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mohammadabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mohan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mohanlalganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Moradabad Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Moradabad Rural.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mubarakpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mughalsarai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Muhammadabad- Gohna (SC).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Mungra Badshahpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Muradnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Muzaffar Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - NIGHASAN.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Nagina.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Najibabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Nakur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Nanpara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Naraini.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Naugawan Sadat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Nautanwa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Nawabganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Nehtaur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Nizamabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Noida.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Noorpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Obra.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Orai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - PALIA.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Padrauna.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Paniyara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Pathardeva.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Patiyali.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Patti.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Payagpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Phaphamau.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Pharenda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Phephana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Phoolpur Pawai.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Phulpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Pilibhit.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Pindra.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Pipraich.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Powayan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Pratapgarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Pratappur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Puranpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Purqazi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Purwa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rae Bareli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ram Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Ramkola.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rampur Karkhana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rampur Khas.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rampur Maniharan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rampur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Raniganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rasara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rasulabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rath.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Robertsganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rohaniya.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rudauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rudhauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Rudrapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - SRI NAGAR.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sadabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sadar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Safipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sagri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sahajanwa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Saharanpur Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Saharanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sahaswan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sahibabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Saidpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Saiyadraja.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sakaldiha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Salempur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Salon.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sambhal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sandi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sandila.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sardhana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sareni.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sarojini Nagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sawaijpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sevapuri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sevata.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shahabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shahganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shahjahanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shamli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shekhupur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shikarpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shikohabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shivpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shohratgarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Shrawasti.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sidhauli.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sikanderpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sikandra Rao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sikandra.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sikandrabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sirathu.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sirsaganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sishamau.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Siswa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sitapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Siwalkhas.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Soraon.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Suar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Sultanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Syana.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tamkuhi Raj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tanda.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tarabganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Thakurdwara.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Thana Bhawan.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tilhar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tiloi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tindwari.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tirwa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tulsipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Tundla.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Unchahar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Unnao.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Utraula.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Varanasi Cantt..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Varanasi North.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Varanasi South.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Vishwanathganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Zafrabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Zahoorabad.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Zaidpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttar Pradesh - Zamania.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Almora.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - B.H.E.L. ranipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Badrinath.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Bageshwar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Bajpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Bhagwanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Bhimtal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Chakrata.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Champawat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Chaubattakhal.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Dehradun Cantt..csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Devprayag.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Dhanolti.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Dharampur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Dharchula.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Didihat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Doiwala.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Dwarahat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Gadarpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Gangolihat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Gangotri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Ghanshali.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Haldwani.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Hardwar Rural.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Hardwar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Jageshwar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Jaspur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Jhabrera.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Jwalapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Kaladhungi.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Kapkot.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Karnprayag.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Kashipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Kedarnath.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Khanpur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Kichha.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Kotdwar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Laksar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Lalkuwa.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Lansdowne.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Lohaghat.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Manglore.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Mussoorie.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Nainital.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Nanak matta.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Narendranagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Pauri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Pirankaliyar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Pithoragarh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Pratapnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Purola.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Raipur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Rajpur Road.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Ramnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Ranikhet.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Rishikesh.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Roorkee.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Rudraprayag.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Rudrapur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Sahaspur.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Salt.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Sitarganj.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Someshwar (s.c.).csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Srinagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Tehri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Tharali.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Vikasnagar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Yamkeshwar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/Uttarakhand - Yamunotri.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/consolidated.csv" />
+    <list default="true" id="585428fe-0c33-4713-9005-39ba53dffa32" name="Default" comment="Adding Disclaimer">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/queries.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -707,63 +18,57 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="election@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#237#254#0" expanded="true" />
+                <element signature="e#237#254#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scraper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Scraper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Consolidator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Consolidator.java">
+      <file leaf-file-name="queries.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sql/queries.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="53" column="45" lean-forward="false" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransformSourceToFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/asb/elections/TransformSourceToFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="consolidated.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/consolidated.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="1834" column="59" lean-forward="true" selection-start-line="1834" selection-start-column="59" selection-end-line="1834" selection-end-column="59" />
+            <state relative-caret-position="240">
+              <caret line="263" column="9" lean-forward="true" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -778,6 +83,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BLOC,India</find>
+      <find>'</find>
+      <find>GENERAL_ELECTION_RESULTS</find>
+      <find>gold</find>
+      <find>silver</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>UP_STATE_ELECTION_RESULTS_2017</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -790,10 +107,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/asb/elections/WebPageFetcher.java" />
-        <option value="$PROJECT_DIR$/src/com/asb/elections/TransformSourceToFile.java" />
-        <option value="$PROJECT_DIR$/src/com/asb/elections/Consolidator.java" />
         <option value="$PROJECT_DIR$/src/com/asb/elections/Main.java" />
         <option value="$PROJECT_DIR$/src/com/asb/elections/Scraper.java" />
+        <option value="$PROJECT_DIR$/src/com/asb/elections/TransformSourceToFile.java" />
+        <option value="$PROJECT_DIR$/src/com/asb/elections/Consolidator.java" />
+        <option value="$PROJECT_DIR$/res/consolidated.csv" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/57c08021-8fbd-4aa0-830e-ea7649055557/console.sql" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/sql/queries.sql" />
       </list>
     </option>
   </component>
@@ -823,7 +144,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -864,14 +186,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
+              <option name="myItemId" value="sql" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -885,6 +206,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
@@ -1126,6 +448,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1276,6 +599,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1338,6 +667,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="585428fe-0c33-4713-9005-39ba53dffa32" name="Default" comment="" />
@@ -1345,7 +677,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489231886673</updated>
-      <workItem from="1489231890497" duration="8227000" />
+      <workItem from="1489231890497" duration="14764000" />
+      <workItem from="1489251791158" duration="332000" />
+      <workItem from="1489252693796" duration="1512000" />
     </task>
     <task id="LOCAL-00001" summary="Scraper">
       <created>1489240168881</created>
@@ -1354,11 +688,74 @@
       <option name="project" value="LOCAL" />
       <updated>1489240168881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Results">
+      <created>1489240216787</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489240216787</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixing errors in results">
+      <created>1489242537594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1489242537594</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding header">
+      <created>1489242572845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1489242572845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Summary of results">
+      <created>1489249447478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1489249447478</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Typo">
+      <created>1489249592221</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489249592221</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Typo">
+      <created>1489252033013</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1489252033013</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixing errors">
+      <created>1489252766887</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1489252766887</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding Disclaimer">
+      <created>1489253111807</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1489253111807</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Total number of parties">
+      <created>1489258744956</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1489258744956</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8227000" />
+    <option name="totallyTimeSpent" value="16608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1367,32 +764,33 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1417,10 +815,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -1434,7 +832,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Scraper" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scraper" />
+    <MESSAGE value="Results" />
+    <MESSAGE value="Fixing errors in results" />
+    <MESSAGE value="Adding header" />
+    <MESSAGE value="Summary of results" />
+    <MESSAGE value="Typo" />
+    <MESSAGE value="Fixing errors" />
+    <MESSAGE value="Adding Disclaimer" />
+    <MESSAGE value="Total number of parties" />
+    <option name="LAST_COMMIT_MESSAGE" value="Total number of parties" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1445,11 +851,81 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#237#254#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Scraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Consolidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#237#254#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Scraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Consolidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="101" column="14" lean-forward="false" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1457,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1465,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="1049" column="42" lean-forward="true" selection-start-line="1049" selection-start-column="42" selection-end-line="1049" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1473,7 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1489,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1497,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
           <caret line="626" column="53" lean-forward="true" selection-start-line="626" selection-start-column="53" selection-end-line="626" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1505,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1513,7 +983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="419" column="59" lean-forward="false" selection-start-line="419" selection-start-column="59" selection-end-line="419" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1521,52 +990,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="205" column="31" lean-forward="false" selection-start-line="205" selection-start-column="31" selection-end-line="205" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/WebPageFetcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Consolidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="53" column="45" lean-forward="false" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/TransformSourceToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/consolidated.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="1834" column="59" lean-forward="true" selection-start-line="1834" selection-start-column="59" selection-end-line="1834" selection-end-column="59" />
+        <state relative-caret-position="240">
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/WebPageFetcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/TransformSourceToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="35" column="66" lean-forward="true" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Consolidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Scraper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="258">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1575,12 +1038,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/asb/elections/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="300">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#237#254#0" expanded="true" />
+            <element signature="e#237#254#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57c08021-8fbd-4aa0-830e-ea7649055557/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="252" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="356" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/queries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="263" column="9" lean-forward="true" selection-start-line="263" selection-start-column="9" selection-end-line="263" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
