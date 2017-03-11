@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.functionaljava:functionaljava-java8:4.6" type="repository">
+    <properties maven-id="org.functionaljava:functionaljava-java8:4.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/functionaljava/functionaljava-java8/4.6/functionaljava-java8-4.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/functionaljava/functionaljava/4.6/functionaljava-4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

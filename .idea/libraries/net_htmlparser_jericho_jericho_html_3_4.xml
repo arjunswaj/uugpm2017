@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="net.htmlparser.jericho:jericho-html:3.4" type="repository">
+    <properties maven-id="net.htmlparser.jericho:jericho-html:3.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/htmlparser/jericho/jericho-html/3.4/jericho-html-3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
