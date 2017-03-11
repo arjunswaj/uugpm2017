@@ -147,7 +147,7 @@ AMETHI|25
 VARANASI CANTT.|25
 
 #### Cost Analysis
-EC allowed up to INR [16 Lakhs](http://eci.nic.in/eci_main1/Contesting.aspx) for election expenditure. Assuming that every candidate spent exactly 70 lakhs, we see some interesting results. Cost per seat excludes parties that won no seats.
+EC allowed up to INR [16 Lakhs](http://eci.nic.in/eci_main1/Contesting.aspx) for election expenditure. Assuming that every candidate spent exactly 16 lakhs, we see some interesting results. Cost per seat excludes parties that won no seats.
 
 ##### Cost per vote.
 Amount spent per vote.
