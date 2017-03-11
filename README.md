@@ -212,3 +212,5 @@ AMARINDER SINGH|INDIAN NATIONAL CONGRESS|PATIALA|72586
 
 
 A string match of Names and Party were done. This is not fool proof. There could be 2 individuals with same name and belonging to the same party.
+
+**Disclaimer:** This is done just for fun. I will not take any responsibility if there is an error in the results due to a bad SQL.
