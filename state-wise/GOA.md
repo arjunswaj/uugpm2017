@@ -22,8 +22,6 @@ MAHARASHTRAWADI GOMANTAK|4
 GOA SURAKSHA MANCH|1
 
 
-Okay, it is top 6, I wanted to include AAP in this category.
-
 #### Which party fielded maximum number of candidates?
 
 NO. OF CANDIDATES | PARTY
