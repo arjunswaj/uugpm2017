@@ -201,7 +201,7 @@ Independent is not a party. They are independents.
 
 #### Candidates participating in multiple seats
 
-A total of 138 Candidates contested from 2 constituencies, however only 4 won the seats.
+A total of 69 Candidates contested from 2 constituencies, however only 4 won the seats.
 
 CANDIDATE | PARTY | CONSTITUENCY | VOTES
 ------------ | ------------- | ------------ | ------------- 
@@ -214,5 +214,13 @@ AMARINDER SINGH|INDIAN NATIONAL CONGRESS|PATIALA|72586
 
 
 A string match of Names and Party were done. This is not fool proof. There could be 2 individuals with same name and belonging to the same party.
+
+#### State-wise breakup
+
+1. [Goa](state-wise/GOA.md)
+1. [Manipur](state-wise/MANIPUR.md)
+1. [Punjab](state-wise/PUNJAB.md)
+1. [Uttarakhand](state-wise/UTTARAKHAND.md)
+1. [Uttar Pradesh](state-wise/UTTAR%20PRADESH.md)
 
 **Disclaimer:** This is done just for fun. I will not take any responsibility if there is an error in the results due to a bad SQL.
