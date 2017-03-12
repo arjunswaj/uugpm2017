@@ -12,7 +12,7 @@ LOK INSAAF PARTY|2
 
 Well, everyone knows that isnt it? Lets see top 5 parties with maximum number of 2nd place.
 
-#### Top 5 parties with maximum number of 2nd place
+#### Top parties with maximum number of 2nd place
 
 PARTY | SEATS
 ------------ | -------------
