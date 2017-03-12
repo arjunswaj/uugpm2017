@@ -1,3 +1,5 @@
+Totally **13** Parties took part in the election!
+
 #### Top 5 parties with maximum number of seats
 
 PARTY | SEATS
